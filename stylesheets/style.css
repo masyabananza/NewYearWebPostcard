@@ -1,0 +1,16 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+
+
+
+.first {
+  position: relative;
+  width: 100%;
+  height: 1920px;
+  background: #6A97EF;
+}
+
+#picture1 {
+  position: absolute;
+  margin-top: 1041px;
+}
